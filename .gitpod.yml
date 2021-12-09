@@ -1,0 +1,21 @@
+image:
+  file: .gitpod.Dockerfile
+# Commands to start on workspace startup
+tasks:
+  - init: bit install
+    command: bit start --dev --log info
+    env:
+      PATH: '${PATH}:/home/gitpod/bin'
+# Ports to expose on workspace startup
+ports:
+  - port: 3000
+    onOpen: open-preview
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+    pullRequestsFromForks: true
+    addCheck: false
+    addComment: false
+    addBadge: true
