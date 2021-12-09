@@ -13,31 +13,61 @@
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "demo/envs/my-react"
+        "rootDir": "demo/envs/my-react",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Aaron Miller",
+            "email": "amiller@watheia.org"
+        }
     },
     "ui/atoms/heading": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "demo/ui/atoms/heading"
+        "rootDir": "demo/ui/atoms/heading",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Aaron Miller",
+            "email": "amiller@watheia.org"
+        }
     },
     "ui/atoms/text": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "demo/ui/atoms/text"
+        "rootDir": "demo/ui/atoms/text",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Aaron Miller",
+            "email": "amiller@watheia.org"
+        }
     },
     "ui/molecules/card": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "demo/ui/molecules/card"
+        "rootDir": "demo/ui/molecules/card",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Aaron Miller",
+            "email": "amiller@watheia.org"
+        }
     },
     "ui/views/welcome": {
         "scope": "",
         "version": "",
         "mainFile": "index.ts",
-        "rootDir": "demo/ui/views/welcome"
+        "rootDir": "demo/ui/views/welcome",
+        "nextVersion": {
+            "version": "patch",
+            "message": "",
+            "username": "Aaron Miller",
+            "email": "amiller@watheia.org"
+        }
     },
     "$schema-version": "14.9.0"
 }
